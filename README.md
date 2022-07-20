@@ -21,5 +21,7 @@ This project addresses three busniess questions:
 2. Is the superhost acting well compared with other people? [Superhost performs better in responding within a hour compared with other]
 3. Could you predict the housing price with your choice?[Yes, the linear Regression was applied to predict the price however the results shown in the R square is not good]
 
+# Please read the Medium Report for this project
+[Medium](https://medium.com/@williswang514/secrets-behind-the-airbnb-prices-6f9d90b7c798)
 
 
