@@ -36,8 +36,5 @@ This project addresses three busniess questions:
 
 # Please read the Medium Report for this project
 [Medium](https://medium.com/@williswang514/secrets-behind-the-airbnb-prices-6f9d90b7c798)
-<<<<<<< HEAD
-=======
 
->>>>>>> 7a506d48520a3c9ae9274b344957603e19e655a2
 
